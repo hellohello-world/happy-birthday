@@ -206,7 +206,7 @@ body{
     animation: up 1s ease forwards;
     transition: .2s;
     cursor: pointer;
-    letter-spacing: 5px;
+    letter-spacing: 2px;
 }
 
 .hover-txt {
@@ -228,7 +228,7 @@ body{
     font-size: 20px;
     font-weight: 400;
     overflow-wrap: break-word;
-    letter-spacing:1px;
+    letter-spacing: 1px;
 }
 
 .audio-btn{
