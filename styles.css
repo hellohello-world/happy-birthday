@@ -228,7 +228,7 @@ body{
     font-size: 20px;
     font-weight: 400;
     overflow-wrap: break-word;
-    letter-spacing: 1px;
+    letter-spacing: 0px;
 }
 
 .audio-btn{
